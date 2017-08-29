@@ -107,6 +107,15 @@ nav a {
   border-bottom: 2px solid black;
 }
 
+#education h3 {
+  border-bottom: 2px solid black;
+
+}
+
+#contact h3 {
+  border-bottom: 2px solid black;
+}
+
 .images {
   display: inline;
 }
