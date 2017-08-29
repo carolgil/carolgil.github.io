@@ -103,6 +103,10 @@ nav a {
   position: relative;
 }
 
+#photos h3 {
+  border-bottom: 2px solid black;
+}
+
 .images {
   display: inline;
 }
