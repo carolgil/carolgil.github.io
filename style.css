@@ -109,10 +109,12 @@ nav a {
 
 #photos {
   position: relative;
+  text-align: center;
 }
 
 #photos h3 {
   border-bottom: 2px solid black;
+  text-align: left;
 }
 
 #education h3 {
